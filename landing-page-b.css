@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Agency v4.0.0-beta (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
- */
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
@@ -28,11 +23,11 @@ h6 {
 section {
   padding: 100px 0; }
   section h2.section-heading {
-    font-size: 40px;
+    font-size: 20px;
     margin-top: 0;
     margin-bottom: 15px; }
   section h3.section-subheading {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
     font-style: italic;
     margin-bottom: 75px;
@@ -115,7 +110,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg")
+  background-image: url("../img/header-bg.jpg")
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -127,15 +122,15 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px; }
     header.masthead .intro-text .intro-lead-in {
-      font-size: 22px;
+      font-size: 10px;
       font-style: italic;
-      line-height: 22px;
+      line-height: 10px;
       margin-bottom: 25px;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
-      font-size: 50px;
-      font-weight: 700;
-      line-height: 50px;
+      font-size: 10px;
+      font-weight: 400;
+      line-height: 25px;
       margin-bottom: 25px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
@@ -145,13 +140,13 @@ header.masthead {
     padding-top: 300px;
     padding-bottom: 200px; }
     header.masthead .intro-text .intro-lead-in {
-      font-size: 40px;
+      font-size: 20px;
       font-style: italic;
       line-height: 40px;
       margin-bottom: 25px;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
-      font-size: 75px;
+      font-size: 25px;
       font-weight: 700;
       line-height: 75px;
       margin-bottom: 50px;
